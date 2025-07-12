@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namaste react ",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillar008/namaste-react.git"
+  },
+  "author": "Neeraj Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pillar008/namaste-react/issues"
+  },
+  "homepage": "https://github.com/pillar008/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.6.3",
+    "react-router-dom": "^6.17.0"
+  }
+}

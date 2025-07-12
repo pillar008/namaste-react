@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+
+# extra stuff
+course_material/
+
+# re-creatable
+dist/
+.parcel-cache/
